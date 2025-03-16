@@ -15,7 +15,7 @@ if device_count == 0:
     exit()
 zkfp2.OpenDevice(0)
 
-subject_number = 1
+subject_number = 52
 subject_try = 1
 current_image_path = "assets/finger.png"
 get_image_path = lambda: f"assets/fingerprints/finger_{subject_number}_{subject_try}.png"
