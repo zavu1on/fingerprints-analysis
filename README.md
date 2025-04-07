@@ -34,6 +34,7 @@ python scan_fingerprints.py
 ├── 2_fingerprints_processing.ipynb     # Скрипт по обработке сканов отпечатков
 ├── 3_fingerprint_identification.ipynb  # Подсчет погрешностей измерения и среднего значения
 ├── 4_fractal_dem.ipynb                 # Фрактальная размерность и метод квадратов
+├── 5_final_analysis.ipynb              # Подведение итогов работы: визуализация результатов, сравнение трех методов, выяъвление кореляции между ними
 ├── scan_fingerprints.py                # Основной скрипт сбора отпечатков пальцев
 ├── README.md                           # Описание проекта
 ```
